@@ -22,7 +22,7 @@ namespace TestGitHubApi
         [SetUp]
         public void Setup()
         {
-            client = new GitHubApiClient("https://api.github.com/repos/testnakov/", "echiose", "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");
+            client = new GitHubApiClient("https://api.github.com/repos/testnakov/", "echiose", "token");
         }
 
 
