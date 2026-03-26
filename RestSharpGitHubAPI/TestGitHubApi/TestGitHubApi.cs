@@ -22,6 +22,7 @@ namespace TestGitHubApi
         [SetUp]
         public void Setup()
         {
+            //token - my GitHub token
             client = new GitHubApiClient("https://api.github.com/repos/testnakov/", "echiose", "token");
         }
 
