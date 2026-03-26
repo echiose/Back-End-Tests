@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z+WcvKo18ow=",
+  "success": true,
+  "projectFilePath": "D:\\QA\\06.Back-End Test Automation - March2026\\04.Exercise-API-Testing-with-C#\\RestSharpExercise_Resources\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elena\\.nuget\\packages\\restsharp\\113.1.0\\restsharp.113.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

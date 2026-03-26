@@ -1,0 +1,17 @@
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\bin\Debug\net8.0\RestSharpServices.exe
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\bin\Debug\net8.0\RestSharpServices.deps.json
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\bin\Debug\net8.0\RestSharpServices.runtimeconfig.json
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\bin\Debug\net8.0\RestSharpServices.dll
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\bin\Debug\net8.0\RestSharpServices.pdb
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\bin\Debug\net8.0\RestSharp.dll
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\obj\Debug\net8.0\RestSharpServices.csproj.AssemblyReference.cache
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\obj\Debug\net8.0\RestSharpServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\obj\Debug\net8.0\RestSharpServices.AssemblyInfoInputs.cache
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\obj\Debug\net8.0\RestSharpServices.AssemblyInfo.cs
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\obj\Debug\net8.0\RestSharpServices.csproj.CoreCompileInputs.cache
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\obj\Debug\net8.0\RestShar.4277DC1C.Up2Date
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\obj\Debug\net8.0\RestSharpServices.dll
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\obj\Debug\net8.0\refint\RestSharpServices.dll
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\obj\Debug\net8.0\RestSharpServices.pdb
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\obj\Debug\net8.0\RestSharpServices.genruntimeconfig.cache
+D:\QA\06.Back-End Test Automation - March2026\04.Exercise-API-Testing-with-C#\RestSharpExercise_Resources\RestSharpExercise\RestSharpServices\obj\Debug\net8.0\ref\RestSharpServices.dll
